@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# Node
+node_modules/
+.next/
+
+# Mac
+.DS_Store
+
+# logs
+*.log
+
+# ML models
+*.joblib
